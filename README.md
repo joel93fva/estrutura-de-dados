@@ -24,8 +24,6 @@ Repositório destinado aos exercícios, implementações de algoritmos e ativida
 - [ ] **Ordenação:** *Quick Sort*
 
 ---
-### 📝 PROVA PRÁTICA 1 (Laboratório)
----
 
 ### 🔹 Tipos Abstratos de Dados (TAD) & Estruturas Lineares
 - [ ] Tipos Abstratos de Dados (TAD) e classes em Java
