@@ -11,7 +11,6 @@ Repositório destinado aos exercícios, implementações de algoritmos e ativida
 ## 🎯 Conteúdo Programático & Progresso
 
 ### 🔹 Fundamentos & Revisão
-- [x] Apresentação da disciplina e sistema de avaliação
 - [x] **Revisão de Java:** Arrays, objects e comparação de valores
 - [x] **Aspectos Avançados em Java:** Explanação de classes e seus casos
 
