@@ -15,11 +15,11 @@ Repositório destinado aos exercícios, implementações de algoritmos e ativida
 - [x] **Aspectos Avançados em Java:** Explanação de classes e seus casos
 
 ### 🔹 Algoritmos de Busca & Ordenação
-- [ ] Algoritmo de Busca Sequencial
-- [ ] Algoritmo de Busca Binária
-- [ ] **Ordenação:** *Bubble Sort*
-- [ ] **Aspectos Avançados em Java:** Recursividade
-- [ ] **Ordenação:** *Merge Sort*
+- [x] Algoritmo de Busca Sequencial
+- [x] Algoritmo de Busca Binária
+- [x] **Ordenação:** *Bubble Sort*
+- [x] **Aspectos Avançados em Java:** Recursividade
+- [x] **Ordenação:** *Merge Sort*
 - [ ] **Ordenação:** *Quick Sort*
 
 ---
