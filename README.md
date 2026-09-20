@@ -20,7 +20,7 @@ Repositório destinado aos exercícios, implementações de algoritmos e ativida
 - [x] **Ordenação:** *Bubble Sort*
 - [x] **Aspectos Avançados em Java:** Recursividade
 - [x] **Ordenação:** *Merge Sort*
-- [ ] **Ordenação:** *Quick Sort*
+- [x] **Ordenação:** *Quick Sort*
 
 ---
 
